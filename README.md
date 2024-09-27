@@ -1,4 +1,4 @@
-# ⚓ Battleship Game
+# Battleship Game
 
 **`James A.`**
 
