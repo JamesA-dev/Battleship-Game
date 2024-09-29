@@ -1,6 +1,6 @@
 # ⚓ Battleship Game
 
-**`Sep 2024`**
+**`Sep 30 2024`**
 
 PyGame Object-Oriented Programming and Recursive Algorithm Project.
 
